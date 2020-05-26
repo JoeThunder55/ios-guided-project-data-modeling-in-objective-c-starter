@@ -25,6 +25,8 @@
 		BDFC8FB623FDA12B00A39B21 /* LSILog.m in Sources */ = {isa = PBXBuildFile; fileRef = BDFC8FAF23FDA12B00A39B21 /* LSILog.m */; };
 		BDFC8FB723FDA12B00A39B21 /* LSIErrors.m in Sources */ = {isa = PBXBuildFile; fileRef = BDFC8FB223FDA12B00A39B21 /* LSIErrors.m */; };
 		BDFC8FB823FDA12B00A39B21 /* LSIErrors.m in Sources */ = {isa = PBXBuildFile; fileRef = BDFC8FB223FDA12B00A39B21 /* LSIErrors.m */; };
+		D72F65AE247DA11E0006C91B /* FirstResponder.m in Sources */ = {isa = PBXBuildFile; fileRef = D72F65AD247DA11E0006C91B /* FirstResponder.m */; };
+		D72F65B1247DBD140006C91B /* Quake.m in Sources */ = {isa = PBXBuildFile; fileRef = D72F65B0247DBD140006C91B /* Quake.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +63,10 @@
 		BDFC8FB023FDA12B00A39B21 /* LSIErrors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSIErrors.h; sourceTree = "<group>"; };
 		BDFC8FB123FDA12B00A39B21 /* LSIFileHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LSIFileHelper.h; sourceTree = "<group>"; };
 		BDFC8FB223FDA12B00A39B21 /* LSIErrors.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LSIErrors.m; sourceTree = "<group>"; };
+		D72F65AC247DA11E0006C91B /* FirstResponder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstResponder.h; sourceTree = "<group>"; };
+		D72F65AD247DA11E0006C91B /* FirstResponder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstResponder.m; sourceTree = "<group>"; };
+		D72F65AF247DBD140006C91B /* Quake.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Quake.h; sourceTree = "<group>"; };
+		D72F65B0247DBD140006C91B /* Quake.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Quake.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +114,10 @@
 				BDFC8F8423FDA09F00A39B21 /* SceneDelegate.m */,
 				BDFC8F8623FDA09F00A39B21 /* ViewController.h */,
 				BDFC8F8723FDA09F00A39B21 /* ViewController.m */,
+				D72F65AC247DA11E0006C91B /* FirstResponder.h */,
+				D72F65AD247DA11E0006C91B /* FirstResponder.m */,
+				D72F65AF247DBD140006C91B /* Quake.h */,
+				D72F65B0247DBD140006C91B /* Quake.m */,
 				BDFC8F8923FDA09F00A39B21 /* Main.storyboard */,
 				BDFC8F8C23FDA0A100A39B21 /* Assets.xcassets */,
 				BDFC8F8E23FDA0A100A39B21 /* LaunchScreen.storyboard */,
@@ -257,8 +267,10 @@
 				BDFC8FB323FDA12B00A39B21 /* LSIFileHelper.m in Sources */,
 				BDFC8FB523FDA12B00A39B21 /* LSILog.m in Sources */,
 				BDFC8F8823FDA09F00A39B21 /* ViewController.m in Sources */,
+				D72F65B1247DBD140006C91B /* Quake.m in Sources */,
 				BDFC8FB723FDA12B00A39B21 /* LSIErrors.m in Sources */,
 				BDFC8F8223FDA09F00A39B21 /* AppDelegate.m in Sources */,
+				D72F65AE247DA11E0006C91B /* FirstResponder.m in Sources */,
 				BDFC8F9323FDA0A100A39B21 /* main.m in Sources */,
 				BDFC8F8523FDA09F00A39B21 /* SceneDelegate.m in Sources */,
 			);
